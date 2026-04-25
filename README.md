@@ -4,12 +4,12 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 - :school: Soy un estudiante junior.
 - :nerd_face: Siempre aprendiendo cosas nuevas.
 - :thinking:Actualmente abierto a nuevas oportunidades laborales.
-, Este es  [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+, Este es  (CURRICULUM).
+- :boom: Este es mi (sitio web).
 <br>
 
