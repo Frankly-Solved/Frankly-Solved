@@ -1,16 +1,16 @@
 <h1 align="center"><b>Hi , I'm Frank</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
-- :school: Soy un estudiante junior.
-- :nerd_face: Siempre aprendiendo cosas nuevas.
-- :thinking:Actualmente abierto a nuevas oportunidades laborales.
-, Este es  (CURRICULUM).
-- :boom: Este es mi (sitio web).
+- 🌱 Actualmente estoy aprendiendo desarrollo web y otros lenguajes de programación.
+- 🤓 Siempre aprendiendo cosas nuevas.
+- 🤔 Actualmente abierto a nuevas oportunidades labolares.
+- ✔ Pregúntame lo que quieras, estaré encantado de ayudarte, ¡siempre y cuando la pelota esté en mi tejado! 😉
+- ⚡ Dato curioso: La comida y la música🎵 son las razones para vivir.
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
